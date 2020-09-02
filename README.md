@@ -1,0 +1,1 @@
+# ishimoto8001_day01_python_basic
