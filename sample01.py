@@ -24,7 +24,12 @@ print(3 - 4)
 print(3 * 4)
 print(3 / 4)
 
-
+# わざとErrorを出すコーナー
+# TypeError: can only concatenate str (not "int") to str
+# TypeError: データの型(≒データの種類に関するエラー)
+# print('12' + 34)    # 文字の「12」と 整数の「34」 を + しようとしてるけどダメ！
+# TypeError: unsupported operand type(s) for +: 'int' and 'str'
+# print(56 + '56')
 
 
 
