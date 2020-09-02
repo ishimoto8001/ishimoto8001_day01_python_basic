@@ -18,6 +18,14 @@ print('Tom')
 # SyntaxError: invalid character in identifier
 # print('hello'）
 
+# 整数の基本的な演算
+print(3 + 4)
+print(3 - 4)
+print(3 * 4)
+print(3 / 4)
+
+
+
 
 
 
