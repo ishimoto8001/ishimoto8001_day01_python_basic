@@ -23,3 +23,5 @@ print(total_price)  # 1500
 
 
 
+
+
