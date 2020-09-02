@@ -14,6 +14,10 @@ print('Tom')
 # SyntaxError: EOL while scanning string literal
 # print('hello)
 
+# わざとErrorその3:記号が全角(最後の閉じカッコが全角になっている)
+# SyntaxError: invalid character in identifier
+# print('hello'）
+
 
 
 
